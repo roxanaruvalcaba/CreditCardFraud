@@ -1,5 +1,5 @@
 # CreditCardFraud
 
 ### Content
-- [PPT](./Machine-Learning.pdf)
+- [PPT](./Machine_Learning.pdf)
 - [code](./Project_FINAL.ipynb)
